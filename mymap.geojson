@@ -111,11 +111,46 @@
       "properties": {
         "Perranporth, Cornwall, UK": "2007-2008, 2011"
       }
+    },
+
+ {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-5.692634582519531, 50.085344397538876]
+      },
+      "properties": {
+        "Sennen, Cornwall, UK": "2005"
+      }
+    },
+
+ {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.2091827392578125, 44.96771283573078 ]
+      },
+      "properties": {
+        "Truc Vert, Le Cap Feret, France": "2008"
+      }
+    },
+
+ {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.8343734741210938, 50.7206993264592 ]
+      },
+      "properties": {
+        "Boscombe, Dorset, UK": "2012"
+      }
     }
 
 
   ]
 }
+
+ 
 
 
 
