@@ -144,6 +144,17 @@
       "properties": {
         "Boscombe, Dorset, UK": "2012"
       }
+    },
+
+ {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [45.75219336063106, -68.5107421875 ]
+      },
+      "properties": {
+        "Ponobscot River, Maine": "2013"
+      }
     }
 
 
