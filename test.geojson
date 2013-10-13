@@ -1,0 +1,15 @@
+{
+  type: FeatureCollection,
+  features: [
+
+ {
+      type: Feature,
+      geometry: {
+        coordinates: [-3.62823486328125, 50.30425289732485]
+      },
+      properties: {
+        Slapton Sands, Devon, UK: 2004 - 2008
+      }
+    }
+  ]
+}
