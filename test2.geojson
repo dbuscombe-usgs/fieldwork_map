@@ -18,7 +18,7 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-68.5107421875, 45.75219336063106]
+        "coordinates": [-68.5107421875, 45.75219336063106 ]
       },
       "properties": {
         "Ponobscot River, Maine": "2013"
