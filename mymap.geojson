@@ -155,9 +155,53 @@
       "properties": {
         "Ponobscot River, Maine": "2013"
       }
-    }
+    },
 
-
+ {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-104.1711335, 47.7128024 ]
+      },
+      "properties": {
+        "Yellowstone River, MT/ND": "2015"
+      }
+    },
+    
+ {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-113.3719481, 35.7657926 ]
+      },
+      "properties": {
+        "Colorado River, Diamond Creek": "2015"
+      }
+    },
+    
+ {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-111.5879381, 36.8644315 ]
+      },
+      "properties": {
+        "Colorado River, Glen Canyon": "2009, 2013-15"
+      }
+    },   
+    
+ {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-110.0420708, 38.4524824]
+      },
+      "properties": {
+        "Green River, Canyonlands, Utah": "2015"
+      }
+    },  
+    
+     
   ]
 }
 
