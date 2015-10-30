@@ -172,6 +172,28 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
+        "coordinates": [-108.7555647, 40.7132616 ]
+      },
+      "properties": {
+        "Green River, Gates of Lodore, CO": "2015"
+      }
+    },
+    
+ {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-108.517323, 40.4463556]
+      },
+      "properties": {
+        "Yampa River, Deerlodge Park, CO": "2015"
+      }
+    },
+    
+ {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
         "coordinates": [-113.3719481, 35.7657926 ]
       },
       "properties": {
