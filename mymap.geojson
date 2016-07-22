@@ -208,7 +208,7 @@
         "coordinates": [-111.5879381, 36.8644315 ]
       },
       "properties": {
-        "Colorado River, Glen Canyon": "2009, 2013-15"
+        "Colorado River, Glen Canyon": "2009, 2013-16"
       }
     },   
     
@@ -221,7 +221,40 @@
       "properties": {
         "Green River, Canyonlands, Utah": "2015"
       }
-    }
+    },
+    
+ {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-109.8113172, 38.2380419 ] 
+      },
+      "properties": {
+        "Colorado River, Canyonlands": "June 2016"
+      }
+    },    
+    
+ {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-93.2555026, 44.9821872 ] 
+      },
+      "properties": {
+        "St. Anthony Falls Laboratory, Minneapolis": "July 2016"
+      }
+    },     
+    
+ {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-103.1087122, 28.9736094 ] 
+      },
+      "properties": {
+        "Rio Grande, Big Bend, Texas": "July 2016"
+      }
+    }  
     
   ]
 }
